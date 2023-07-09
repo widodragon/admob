@@ -8,7 +8,7 @@
 "HOMEURL" : "file:///android_asset/music/playlist.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
+"JSON_POPUP_WAIT" : "DJ Kuda Yang Mana",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
