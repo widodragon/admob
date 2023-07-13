@@ -5,10 +5,10 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "file:///android_asset/music/playlist.html",
+"HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "DJ Kuda Yang Mana",
+"JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
