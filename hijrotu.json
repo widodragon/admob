@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -41,9 +41,9 @@
 
 "STARTAPPID" : "208416424",
 
-"ADMOB_BANNER" : "ca-app-pub-9804721901768342/4381003294",
-"ADMOB_INTER" : "ca-app-pub-9804721901768342/6685648729",
-"ADMOB_NATIV" : "ca-app-pub-9804721901768342/2610672348",
+"ADMOB_BANNER" : "ca-app-pub-9804721901768342/6823132132",
+"ADMOB_INTER" : "ca-app-pub-9804721901768342/9614513675",
+"ADMOB_NATIV" : "ca-app-pub-9804721901768342/4068938293",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -88,7 +88,7 @@ i.ve download and so much happy
 "MORE_BUTTON" : "Share Via WhatsApp",
 // Jika share button TRUE maka tombol MORE berubah SHARE
 // isi url more apps jika ENABLE_SHARE_BUTTON  is false
-"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=sofyanibnu"
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=com.sofyanibnu.alhijrotu"
 
  }
 }
